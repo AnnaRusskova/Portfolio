@@ -1,0 +1,23 @@
+.notFound{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.notFound-text {
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.notFound-link {
+    color: #61dafb;
+    font-size: 18px;
+}
+
+.notFound-img{
+    border-radius: 100%;
+    border: rgb(138 171 157) 3px solid;
+}

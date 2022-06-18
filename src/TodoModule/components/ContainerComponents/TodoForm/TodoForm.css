@@ -1,0 +1,47 @@
+.todoForm{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 15px; 
+}
+.todoForm-input{
+    width: 290px;
+    height: 63px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+    padding-left: 20px;
+
+    border:none;
+}
+
+.todoForm-line{
+    width: 396px;
+    height: 0px;
+    margin-top: 15px;
+
+    border: 2px solid #9A9A9A;
+}
+
+.todoForm-btn{
+    padding-bottom: 7px;
+    width: 40px;
+    height: 40px;
+
+    background: #6DBE75;
+    border-radius: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border:none;
+}
