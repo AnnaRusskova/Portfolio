@@ -9,6 +9,6 @@
 .ContactsBookApp {
     padding: 66px 100px;
     background-color: rgb(167, 192, 163);
-    min-height: 690px;
+    min-height: 100vh;
   }
   
